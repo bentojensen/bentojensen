@@ -1,0 +1,17 @@
+﻿
+p.menu
+{
+font-family: verdana, arial, sans-serif;
+margin: 1px 1px 1px 1px;
+}
+
+a:hover {
+				color: #FF3300;
+				text-decoration: none;
+				text-align: left;
+				width: 90%;
+}
+
+a:hover {
+				color: #FFBB00;
+}

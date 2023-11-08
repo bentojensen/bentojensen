@@ -1,0 +1,43 @@
+.lilleskrift {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+.textverdana {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-variant: normal;
+	text-decoration: none;
+}
+a:link {
+	color: #CC0000;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	background-color: #FFFF00;
+}
+a:active {
+	color: #990099;
+}
+.menu {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #FF0000;
+	text-decoration: none;
+}
+h1 {
+	background-color: #FFFFCC;
+	padding: 3px;
+	height: auto;
+	width: 100%;
+}

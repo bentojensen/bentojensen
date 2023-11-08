@@ -1,0 +1,60 @@
+﻿body {
+				background-image: url('grafik/bentback.gif');
+				font-family: Calibri;
+				font-size: 1em;
+				margin-left: 0; 
+				margin-top: 0; 
+}
+a {
+				font-family: Verdana;
+				font-size: x-small;
+				font-weight: normal;
+				font-style: normal;
+				font-variant: normal;
+				text-decoration: none;
+				line-height: 9px;
+				display: list-item;
+				visibility: visible;
+				list-style-type: none;
+				background-color: #c4c8fd;
+				padding: 2px;
+				border-style: outset;
+				border-width: 2px;
+				border-color: #C0C0C0 #C0C0C0 #000000 #C0C0C0;
+				color: #000000;
+}
+
+a:hover {
+				background-color: #e6d11a;
+}
+.lilleskrift {
+				border-style: outset;
+				border-width: 1px;
+				font-family: Verdana,Arial,Helvetica,sans-serif;
+				font-size: 9px;
+				display: list-item;
+				line-height: 11px;
+				color: #000000;
+}
+.textverdana {
+				font-family: Verdana,Arial,Helvetica,sans-serif;
+				font-size: x-small;
+				font-style: normal;
+				font-weight: bold;
+				line-height: normal;
+				font-variant: normal;
+				text-decoration: none;
+				color: #000000;
+}
+.tekst fed center {
+				font-family: Calibri;
+				font-size: x-small;
+				font-weight: bold;
+				text-decoration: none;
+				color: #000000;
+				text-align: center;
+				line-height: normal;
+}
+div {
+				font-weight: bold;
+}

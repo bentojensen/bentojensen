@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: _private
+Disallow: /test
+
+# WebMatrix 1.0
